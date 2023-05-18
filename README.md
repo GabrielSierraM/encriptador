@@ -1,0 +1,3 @@
+# encriptador
+
+Archivo en construccion 
